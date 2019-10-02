@@ -1,6 +1,6 @@
 #Política de privacidade para ECOMapss#
 
-Todas as suas informações pessoais recolhidas, serão usadas para o ajudar a tornar na utilização do no nosso app o mais produtiva e agradável possível.
+Todas suas informações pessoais recolhidas serão usadas para o ajudar a tornar a utilização do nosso app o mais produtiva e agradável possível.
 
 A garantia da confidencialidade dos dados pessoais dos utilizadores do nosso app é importante para o ECOMapss.
 
@@ -12,12 +12,12 @@ O uso do ECOMapss pressupõe a aceitação deste Acordo de privacidade. A equipe
 
 #Os anúncios#
 
-O app não utiliza de aníncios.
+O app não utiliza de anúncios.
 
 #A câmera#
 
-O app utiliza da câmera do seu dispotitivo unicamente para leitura do QR-Code, sem armazenar ou compartilhar os dados nela obtido.
+O app utiliza da câmera do seu dispotitivo unicamente para leitura do QR-Code, sem armazenar ou compartilhar os dados nela obtidos.
 
-O ECOMapss possui ligações para outros sites, os quais, a nosso ver, podem conter informações / ferramentas úteis para os nossos visitantes. A nossa política de privacidade não é aplicada a sites de terceiros, pelo que, caso visite outro site a partir do nosso deverá ler a politica de privacidade do mesmo.
+O ECOMapss possui ligações para outros sites, os quais, a nosso ver, podem conter informações / ferramentas úteis para os nossos visitantes. A nossa política de privacidade não é aplicada a sites de terceiros, pelo que, caso visite outro site a partir do nosso deverá ler a política de privacidade do mesmo.
 
 Não nos responsabilizamos pela política de privacidade ou conteúdo presente nesses mesmos sites.
